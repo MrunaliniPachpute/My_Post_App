@@ -1,8 +1,13 @@
-# React + Vite
+This is a React + Vite application for managing posts. The app comes with the following features:  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- **Default Posts**: Displays a set of predefined posts.  
+- **Create Posts**: Users can add new posts dynamically.  
+- **Delete Posts**: Users can delete existing posts as needed.  
 
-Currently, two official plugins are available:
+The project leverages:  
+- **Context API**: For state sharing across components.  
+- **useState**: For managing local state.  
+- **Component-based Architecture**: For modular and reusable UI components.  
+- **Vite**: For a fast and optimized development experience.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This app demonstrates efficient state management and a clean user interface built with modern React practices.
