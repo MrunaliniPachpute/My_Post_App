@@ -1,4 +1,4 @@
-This is a React + Vite application for managing posts. The app comes with the following features:  
+This is a **React + Vite** application for managing posts. The app comes with the following features:  
 
 - **Default Posts**: Displays a set of predefined posts.  
 - **Create Posts**: Users can add new posts dynamically.  
